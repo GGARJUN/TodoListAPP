@@ -3,21 +3,22 @@
 
 # Features
 - **Add Tasks:** Users can add new tasks with an optional due date.
-Mark as Completed: Tasks can be marked as completed or uncompleted.
-Edit Tasks: Users can edit task names.
-Delete Tasks: Tasks can be deleted.
-Filter Tasks: Tasks can be filtered by all, completed, or incomplete.
-Sort Tasks: Tasks can be sorted by due date or priority.
-Responsive Design: The app is fully responsive, designed for both desktop and mobile views.
+- **Mark as Completed:** Tasks can be marked as completed or uncompleted.
+- **Edit Tasks:** Users can edit task names.
+- **Delete Tasks:** Tasks can be deleted.
+- **Filter Tasks:** Tasks can be filtered by all, completed, or incomplete.
+- **Sort Tasks:** Tasks can be sorted by due date or priority.
+- **Responsive Design:** The app is fully responsive, designed for both desktop and mobile views.
 Demo
 
-Technologies Used
-React.js: For building the user interface.
-Tailwind CSS: For styling the components.
-JavaScript: For functionality.
-Vite: For faster React development.
-Prerequisites
+# Technologies Used
+- React.js: For building the user interface.
+- Tailwind CSS: For styling the components.
+- JavaScript: For functionality.
+- Vite: For faster React development.
+  
+# Prerequisites
 Before running the application locally, ensure that you have the following installed:
 
-Node.js (version 14 or higher)
-npm (version 6 or higher)
+- Node.js (version 14 or higher)
+- npm (version 6 or higher)
