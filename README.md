@@ -1,5 +1,5 @@
 # React Todo List Application
-Welcome to the Todo List web application, built with React.js and Tailwind CSS. This application allows users to manage tasks by adding, editing, marking as complete/incomplete, deleting, and filtering based on their completion status. It also includes optional features like sorting tasks by date or priority and adding due dates.
+## Welcome to the Todo List web application, built with React.js and Tailwind CSS. This application allows users to manage tasks by adding, editing, marking as complete/incomplete, deleting, and filtering based on their completion status. It also includes optional features like sorting tasks by date or priority and adding due dates.
 
 Features
 Add Tasks: Users can add new tasks with an optional due date.
