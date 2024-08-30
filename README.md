@@ -9,13 +9,13 @@
 - **Filter Tasks:** Tasks can be filtered by all, completed, or incomplete.
 - **Sort Tasks:** Tasks can be sorted by due date or priority.
 - **Responsive Design:** The app is fully responsive, designed for both desktop and mobile views.
-Demo
 
 # Technologies Used
-- React.js: For building the user interface.
-- Tailwind CSS: For styling the components.
-- JavaScript: For functionality.
-- Vite: For faster React development.
+- **React.js:** For building the user interface.
+- **Tailwind CSS:** For styling the components.
+- **JavaScript:** For functionality.
+- **Vite:** For faster React development.
+- **Magic UI Library:** Magic UI is a collection of re-usable components that you can copy and paste into your web apps.
   
 # Prerequisites
 Before running the application locally, ensure that you have the following installed:
@@ -26,7 +26,7 @@ Before running the application locally, ensure that you have the following insta
 # Getting Started
 To run this project locally, follow these steps:
 1. Clone the repository:
-   `git clone https://github.com/your-username/todo-list-assignment.git`
+   `git clone https://github.com/GGARJUN/todo-list-assignment.git`
 
 2. Navigate to the project directory:
     `cd todo-list-assignment`
@@ -37,4 +37,4 @@ To run this project locally, follow these steps:
 4. Start the development server: Run the following command to start the application locally:
     `npm run dev`
 
-> This will start the application on http://localhost:3000.
+> This will start the application on http://localhost:5173.
