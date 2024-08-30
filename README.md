@@ -22,3 +22,19 @@ Before running the application locally, ensure that you have the following insta
 
 - Node.js (version 14 or higher)
 - npm (version 6 or higher)
+
+# Getting Started
+To run this project locally, follow these steps:
+1. Clone the repository:
+   `git clone https://github.com/your-username/todo-list-assignment.git`
+
+2. Navigate to the project directory:
+    `cd todo-list-assignment`
+
+3. Install dependencies: Run the following command to install all necessary packages:
+    `npm install`
+
+4. Start the development server: Run the following command to start the application locally:
+    `npm run dev`
+
+> This will start the application on http://localhost:3000.
